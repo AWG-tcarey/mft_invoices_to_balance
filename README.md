@@ -15,6 +15,6 @@
     - %data%/receivedbox/edi/
     - %prhappftpuserdata%/inbox/edi/
     - %data%/aislprod/outbox/invoices/
---- _Information below this line is used by the deploy process. Please **triple-check** for spelling errors!_ ---
+--- _Information above this line is used by the deploy process. Please **triple-check** for spelling errors!_ ---
   
 ---
