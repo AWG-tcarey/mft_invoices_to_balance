@@ -1,6 +1,5 @@
 # mft_invoices_to_balance
 ---
-
 ## Build Data
 --- _Information below this line is used by the deploy process. Please **triple-check** for spelling errors!_ ---
 ### Actions
@@ -15,6 +14,3 @@
     - %data%/receivedbox/edi/
     - %prhappftpuserdata%/inbox/edi/
     - %data%/aislprod/outbox/invoices/
---- _Information above this line is used by the deploy process. Please **triple-check** for spelling errors!_ ---
-  
----
