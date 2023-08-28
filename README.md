@@ -9,7 +9,7 @@
     - %data%/aislprod/outbox/invoices/    
     - %aislprod%/inbound/freightinv/
 - aislprod/lin_MQ_integration/put_bal_invoices_to_merged
-    - %data%/aislprod/receivedbox/invoices
+    - %data%/aislprod/receivedbox/invoices/
 - awg.supplychainproducts.com/balances/put_bal_merged_invoices
 - service_trhapp/move_bal_edi_invoice
     - %data%/receivedbox/edi/
